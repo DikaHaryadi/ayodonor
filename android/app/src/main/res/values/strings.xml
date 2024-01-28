@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Donor Indonesia</string>
+    <string name="facebook_app_id">328440456281788</string>
+    <string name="fb_login_protocol_scheme">fb328440456281788</string>
+    <string name="facebook_client_token">13ce4c227b5a268e57ac2dbee51cc192</string>
+</resources>

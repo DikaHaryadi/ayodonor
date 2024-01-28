@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230252493960",
+    "project_id": "donor-indonesia",
+    "storage_bucket": "donor-indonesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230252493960:android:8e9c22922305ab6830733d",
+        "android_client_info": {
+          "package_name": "com.example.getdonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230252493960-4o8f5ft5552kv711cnd352t1vr8l6775.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOlhyS6xsXRkqEnx64OlxPpDIfCOv_Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230252493960-4o8f5ft5552kv711cnd352t1vr8l6775.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
