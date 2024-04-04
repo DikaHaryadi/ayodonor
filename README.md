@@ -91,7 +91,7 @@ Instructions on how to use it in your own app are linked below :
 
 
 
-**Thanks For UDD PUSAT PMI!0**
+**Thanks a lot For UDD PUSAT PMI!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
